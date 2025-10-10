@@ -1,0 +1,12 @@
+ffmpeg
+typer[all]
+Schedule
+typer
+undetected_chromedriver
+selenium
+selenium_stealth
+yt_dlp
+moviepy
+webdriver_manager
+platformdirs
+setuptools

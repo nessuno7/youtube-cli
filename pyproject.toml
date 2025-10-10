@@ -1,0 +1,24 @@
+[project]
+name = "ytcli"
+version = "0.1.0"
+authors = [
+  { name="nessuno7"}
+]
+dependencies = [
+    "ffmpeg",
+    "typer[all]",
+    "Schedule",
+    "typer",
+    "undetected_chromedriver",
+    "selenium",
+    "selenium_stealth",
+    "yt_dlp",
+    "moviepy",
+    "webdriver_manager",
+    "platformdirs",
+    "setuptools"
+]
+
+[project.scripts]
+ytcli = "app.__main__:app"
+

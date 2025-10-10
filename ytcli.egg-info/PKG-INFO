@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: ytcli
+Version: 0.1.0
+Author: nessuno7
+Requires-Dist: ffmpeg
+Requires-Dist: typer[all]
+Requires-Dist: Schedule
+Requires-Dist: typer
+Requires-Dist: undetected_chromedriver
+Requires-Dist: selenium
+Requires-Dist: selenium_stealth
+Requires-Dist: yt_dlp
+Requires-Dist: moviepy
+Requires-Dist: webdriver_manager
+Requires-Dist: platformdirs
+Requires-Dist: setuptools
